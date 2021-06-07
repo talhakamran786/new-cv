@@ -1,0 +1,388 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+#one{
+background-color: rgb(212, 212, 212);
+height: 100px;
+display:inline-block;
+width: 29%;
+
+}
+#two{
+background-color: #0892fd;
+height: 100px;
+display:inline-block;
+width: 71%;
+/* margin-left: -4px; */
+}
+#main{
+    display: flex;
+}
+
+#mywhite{
+    background-color: white;
+}
+#mylogo{
+    height: 75px;
+    width: 75px;
+    margin-top: 13px;
+    margin-left: 10%;
+    display: inline-block;
+}
+#margin{
+    display: inline-block;
+    font-size: 22px;
+    font-weight:bold ;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#talha{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -40px;
+    margin-left: 45%;
+    font-size: 18px;
+}
+#Topul{
+    display: flex;
+    flex: row wrap;
+    list-style: none;
+    height: 50px;
+    margin-top:25px;
+
+}
+.topli{
+    flex: 1;
+    text-align:center;
+    padding-top: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* color: white; */
+}
+#firstli{
+    flex:0.5;
+}
+
+#html5{
+color: #0892fd;
+
+}
+#label{
+    height: 500px;
+    width: 100%;
+}
+
+
+#firsthead{
+    display: inline-block;
+    font-size: 45px;
+    font-weight:700;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 190px;
+    left: 40px;
+
+}
+
+#block{
+font-size: 23px;
+position:absolute;
+top:  490px;
+left: 38px;
+color: white;
+background-color: #07528d;
+height: 60px;
+width: 170px;
+}
+#online{
+position:absolute;
+top: 399px;
+left: 40px;
+font-size: 19px;
+color: rgb(54, 146, 158);
+
+}
+#src{
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    top: 280px;
+    left: 40px;
+    color: rgb(53, 42, 150);
+}
+#srchicon{
+    flex: 0.5;
+    padding: 0;
+    margin-top: -8px;
+}
+
+.newfolder{
+/* margin: 0 auto 0 auto; */
+text-align: center;
+margin-top: 75px;
+margin-bottom: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+font-size: 38px;
+}
+
+.WECAN{
+color: rgb(32, 116, 212);
+}
+
+.help{
+    
+}
+.new{
+    font-size: 23px;
+    color: rgb(87, 87, 87);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 75px;
+}
+.para{
+    display: inline-block;
+    /* width: 500px; */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+.need{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.talhacop{
+    margin-top: 20px;
+}
+.it_is_a{
+   font-size: 20px;
+}
+.resumeimg{
+    width: 500px;
+    height: 250px;
+    margin-top: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.resumeimg2{
+margin-top: 5%;
+margin-left: 5%;
+width: 35%;
+height: 55%;
+
+}
+.para2{
+    display: inline-block;
+    width: 50%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 4%;
+    margin-top: 80px;
+}
+.main2{
+    background-color: #07528d;
+    height: 500px;
+    word-spacing: 2px;
+    display: flex;
+}
+#internet{
+text-align: center;
+}
+.slideimg{
+    margin-left: 35px;
+}
+#thata{
+    margin-left: 58px;
+    margin-right: 45px;
+    font-size: 19px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#more{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    width: 180px;
+    height: 50px;
+    border: none;
+    /* font-size: 31px; */
+    /* text-align: center; */
+    margin-left: 46%;
+    /* margin-right: 600px; */
+   /* margin: 0 auto; */
+}
+
+
+.notintermain {
+    display: flex;
+}
+.notinter{
+    flex: 1;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #07528d;
+ }
+.threeimg{
+    height: 120px;
+}
+
+#maindiv{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+#talhakamran{
+    margin-left: 665px;
+    margin-top: -4px;
+    font-size: -1;
+}
+#usct{
+    margin-left: 45%;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#imgid{
+    display: flex;
+    text-align: center;
+    margin-top: 13px;
+    width: 70%;
+    margin: 0 auto;
+    /* background-color: yellow; */
+}
+.social{
+flex:1;
+display: inline-block;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.socialpic{
+margin: 10px 0 12px 0;
+}
+#main10{
+    background-color:#05223d;
+    margin-top: 50px;
+    height: 340px;
+}
+
+
+#trtd{
+    text-align: center;
+    height: 55px;
+    /* margin-left: 940px; */
+    word-spacing: 5px;
+    float: right;
+
+}
+.foottd{
+    width: 130px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+#footdiv{
+    float: right;
+    background-color: #041d35;
+    width: 100%;
+    margin-top: 30px;
+}
+
+
+#socialimg{
+    /* display: inline-block; */
+    width: 22%;
+        margin: 0 auto;
+        padding: 20px;
+        margin-bottom: -40px;
+
+}
+
+#talhadevel{
+    display: inline-block;
+vertical-align: top;
+position: relative;
+left: 40%;
+top: -55px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+color: rgb(255, 196, 0);
+}
+
+#png{
+height: 100px;
+display: inline-block;
+margin-top: 15px;
+}
+#onvc{
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    top: 30px;
+    /* left: 1px; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: blanchedalmond;
+    font-weight:700;
+}
+#lasthead{
+    height: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+
+     /* MEDIA START */
+
+@media (max-width:1140px){
+
+.main2{
+    height: 600px;
+}
+.need{
+    font-size: 30px;
+}
+}
+
+@media (max-width:1000px){
+.main2{
+    display: block;
+    text-align: center;
+    height: 500px;
+}
+.para{
+    display: block;
+    margin-top: 25px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.resumeimg{
+    width: 400px;
+    height: 180px;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#onvc{
+    position: relative;
+    top: -75px;
+    left: 47%;
+}
+#talhadevel{
+    position: relative;
+    top: -75px;
+    left: 60%;
+}
+.social{
+    letter-spacing:0.1em;
+}
+}
